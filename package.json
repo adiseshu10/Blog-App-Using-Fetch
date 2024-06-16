@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "blogs-list",
+=======
+  "name": "app-name",
+>>>>>>> origin/main
   "private": true,
   "version": "1.0.0",
   "engines": {

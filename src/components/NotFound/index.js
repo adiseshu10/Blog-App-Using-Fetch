@@ -4,7 +4,11 @@ const NotFound = () => (
   <div className="not-found-container">
     <img
       src="https://assets.ccbp.in/frontend/react-js/not-found-blog-img.png"
+<<<<<<< HEAD
       alt="not-found"
+=======
+      alt="not found"
+>>>>>>> origin/main
       className="not-found-img"
     />
   </div>

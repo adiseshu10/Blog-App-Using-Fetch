@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 # Routing using react-router Part 3
+=======
+# Routing using react-router Part 2
+>>>>>>> origin/main
 
 ## API
 
 ```
+<<<<<<< HEAD
 `https://apis.ccbp.in/blogs/${id}`
+=======
+https://apis.ccbp.in/blogs
+>>>>>>> origin/main
 
 ```
 
